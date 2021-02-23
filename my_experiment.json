@@ -1,3 +1,10 @@
 {
-  "n_trials": 2
+"n_trials": 2,
+"1_NP": "The rushing flood",
+"2_NP": "The floating debris"
+"1_VP": " washed the sandbags",
+"2_VP": " dragged the fishing nets",
+"1_PP": " into the house",
+"2_PP": " down the river"
+
 }
