@@ -7,4 +7,15 @@
 "1_PP": " into the house",
 "2_PP": " down the river"
 
+
+"1_Cam": 30
+"2_Cam": -30
+"1_Play.x": 22
+"1_Play.y": -3
+"2_Play.x": -20
+"2_Play.y": -4
+"1_Ago.x": 24
+"1_Ago.y": -3
+"2_Ago.x": -37
+"2_Ago.y": 3
 }
