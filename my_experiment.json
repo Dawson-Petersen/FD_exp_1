@@ -1,5 +1,7 @@
 {
-"n_trials": 2,
+"num_RM_trials": 1,
+"num_Crit_trials": 2,
+"num_Sense_trials": 3,
 "1_NP": "The rushing flood",
 "2_NP": "The floating debris"
 "1_VP": " washed the sandbags",
