@@ -1,23 +1,84 @@
 {
-"num_RM_trials": 2,
-"num_Crit_trials": 2,
-"num_Sense_trials": 3,
+"num_RM_trials": 10,
+"num_Crit_trials": 20,
+"num_Sense_trials": 30,
+  
+  
 "1_NP": "The rushing flood",
-"2_NP": "The floating debris"
+"2_NP": "The floating debris",
+"3_NP": ,
+"4_NP": ,
+"5_NP": ,
+"6_NP": ,
+"7_NP": ,
+"8_NP": ,
+"9_NP": ,
+"10_NP": ,
+"11_NP": ,
+"12_NP": ,
+"13_NP": ,
+"14_NP": ,
+"15_NP": ,
+"16_NP": ,
+"17_NP": ,
+"18_NP": ,
+"19_NP": ,
+"20_NP": ,
+"21_NP": ,
+"22_NP": ,
+"23_NP": ,
+"24_NP": ,
+"25_NP": ,
+"26_NP": ,
+"27_NP": ,
+"28_NP": ,
+"29_NP": ,
+"30_NP": ,
+"31_NP": ,
+"32_NP": ,
+"33_NP": ,
+"34_NP": ,
+"35_NP": ,
+"36_NP": ,
+"37_NP": ,
+"38_NP": ,
+"39_NP": ,
+"40_NP": ,
+"41_NP": ,
+"42_NP": ,
+"43_NP": ,
+"44_NP": ,
+"45_NP": ,
+"46_NP": ,
+"47_NP": ,
+"48_NP": ,
+"49_NP": ,
+"50_NP": ,
+
+  
 "1_VP": " washed the sandbags",
 "2_VP": " dragged the fishing nets",
-"1_PP": " into the house",
-"2_PP": " down the river"
+  
+  
+"1_PP": " into the house.",
+"2_PP": " down the river."
 
 
 "1_Cam": 30
 "2_Cam": -30
+  
+  
 "1_Play.x": 22
+"2_Play.x": -20 
+  
+  
 "1_Play.y": -3
-"2_Play.x": -20
 "2_Play.y": -4
+  
 "1_Ago.x": 24
-"1_Ago.y": -3
 "2_Ago.x": -37
+  
+  
+"1_Ago.y": -3
 "2_Ago.y": 3
 }
