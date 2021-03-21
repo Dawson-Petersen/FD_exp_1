@@ -2,6 +2,7 @@
 "num_RM_trials": 10,
 "num_Crit_trials": 20,
 "num_Sense_trials": 30,
+  {
 "1_NP": "The rushing flood",
 "2_NP": "The floating debris",
 "3_NP": "The draining water",
@@ -402,4 +403,5 @@
 "48_Ago.y": 7,
 "49_Ago.y": -1,
 "50_Ago.y": 7,
+}
 }
