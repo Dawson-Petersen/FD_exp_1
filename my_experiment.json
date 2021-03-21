@@ -79,7 +79,7 @@
 "24_VP": "crossed the busy street",
 "25_VP": "passed the old building",
 "26_VP": "missed the white pins",
-"27_VP": "exited the stadium"",
+"27_VP": "exited the stadium",
 "28_VP": "overshot the small target",
 "29_VP": "neared the food shelves",
 "30_VP": "entered the quiet bedroom",
@@ -104,7 +104,7 @@
 "49_VP": "impeded the pink umbrella",
 "50_VP": "swept the old cars",
 "1_PP": "into the house.",
-"2_PP": "down the river."
+"2_PP": "down the river.",
 "3_PP": "down the pipe.",
 "4_PP": "off the track.",
 "5_PP": "into the car.",
@@ -146,15 +146,15 @@
 "41_PP": "from the branches.",
 "42_PP": "in the mountains.",
 "43_PP": "in the cabinet.",
-"44_PP": "from the path.,
+"44_PP": "from the path.",
 "45_PP": "to the moon.",
 "46_PP": "across the ocean.",
 "47_PP": "into the lamp.",
 "48_PP": "into the soup.",
 "49_PP": "from the dishwasher.",
 "50_PP": "under the rug.",
-"1_Cam": 30
-"2_Cam": -30
+"1_Cam": 30,
+"2_Cam": -30,
 "3_Cam": 60,
 "4_Cam": -60,
 "5_Cam": 90,
@@ -203,8 +203,8 @@
 "48_Cam": -720,
 "49_Cam": 750,
 "50_Cam": -750,
-"1_Play.x": 22
-"2_Play.x": -20 
+"1_Play.x": 22,
+"2_Play.x": -20, 
 "3_Play.x": 52,
 "4_Play.x": -55,
 "5_Play.x": 81,
@@ -303,8 +303,8 @@
 "48_Play.y": -5,
 "49_Play.y": -5,
 "50_Play.y": -3,
-"1_Ago.x": 24
-"2_Ago.x": -37
+"1_Ago.x": 24,
+"2_Ago.x": -37,
 "3_Ago.x": 54,
 "4_Ago.x": -52,
 "5_Ago.x": 83,
@@ -353,8 +353,8 @@
 "48_Ago.x": -711,
 "49_Ago.x": 746,
 "50_Ago.x": -742,
-"1_Ago.y": -3
-"2_Ago.y": 3
+"1_Ago.y": -3,
+"2_Ago.y": 3,
 "3_Ago.y": -4,
 "4_Ago.y": 6,
 "5_Ago.y": -2,
@@ -402,5 +402,5 @@
 "47_Ago.y": -1,
 "48_Ago.y": 7,
 "49_Ago.y": -1,
-"50_Ago.y": 7,
+"50_Ago.y": 7
 }
