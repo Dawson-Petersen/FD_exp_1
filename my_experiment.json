@@ -1,7 +1,7 @@
 {
-"num_RM_trials": 20,
-"num_Crit_trials": 30,
-"num_Sense_trials": 40,
+"num_RM_trials": 10,
+"num_Crit_trials": 20,
+"num_Sense_trials": 30,
 
 "1_PNP": "The rushing flood",
 "2_PNP": "The floating debris",
